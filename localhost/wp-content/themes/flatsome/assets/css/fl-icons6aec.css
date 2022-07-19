@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'fl-icons';
+  src:  url('icons/fl-iconsf711.eot?qutfqd');
+  src:  url('icons/fl-iconsf711.eot?qutfqd#iefix') format('embedded-opentype'),
+    url('icons/fl-iconsf711.woff2?qutfqd') format('woff2'),
+    url('icons/fl-iconsf711.ttf?qutfqd') format('truetype'),
+    url('icons/fl-iconsf711.woff?qutfqd') format('woff'),
+    url('icons/fl-iconsf711.svg?qutfqd#fl-icons') format('svg');
+}
+
+i[class^="icon-"]{
+  visibility: visible!important;
+}

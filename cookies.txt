@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/	FALSE	1999999999	wp_woocommerce_session_86a9106ae65537651a8e456835b316ab	58696d124e7cc438e696d23786ece526%7C%7C1658370825%7C%7C1658367225%7C%7Cf5d1496ce2df2472b38a947908e183e5
+localhost	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	1509%7C2496%7C2569%7C2642%7C2715%7C2788%7C2861%7C2934%7C3007
+
